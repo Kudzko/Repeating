@@ -1,0 +1,27 @@
+INFO - Word 0
+INFO - 0 adding to stack: a
+INFO - 1 adding to stack: b
+INFO -  Comparre first part word with second: b and b
+INFO -  Comparre first part word with second: a and a
+INFO - Word is polindrom
+INFO - Word 1
+INFO - 0 adding to stack: a
+INFO - 1 adding to stack: b
+INFO -  Comparre first part word with second: b and b
+INFO -  Comparre first part word with second: a and a
+INFO - Word is polindrom
+INFO - Word 2
+INFO - 0 adding to stack: a
+INFO - 1 adding to stack: b
+INFO -  Comparre first part word with second: b and b
+INFO -  Comparre first part word with second: a and a
+INFO - Word is polindrom
+INFO - Word 3
+INFO - 0 adding to stack: a
+INFO - 1 adding to stack: d
+INFO - 2 adding to stack: s
+INFO - 3 adding to stack: f
+INFO - 4 adding to stack: a
+INFO - 5 adding to stack: g
+INFO -  Comparre first part word with second: s and g
+INFO - Word is not polindrom
